@@ -123,7 +123,7 @@ body{
 /*=============Start main-page ==============*/
 .main-page{
 	background : #F1F1F1;
-	height: 100%;
+	min-height: 1243px;
 	position: relative;
 	/* overflow: scroll !important; */
 }
